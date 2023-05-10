@@ -20,11 +20,10 @@ Running
 
 Once an user choose a grade, python will run the code and choose which letter grade belongs to that grade. for example, if the user chooses an 88, the program will print (letter_grade is B+).  
 
-,,,
+			
+python Gradingsystem.py
 
-python gradingsystem.py
-
-,,,
+			
 
 
 Thanks
